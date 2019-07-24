@@ -16,44 +16,40 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Instalación 
 
-1. Descarga o clona este respositorio dentro de la carpeta _Build_ vas a encontrar la versión ejecutable
-
+1. Descarga o clona este respositorio 
 2. Carga las imagenes que quieres usar de pictogramas en las carpetas que vas a encontrar dentro de _diapos_, el numero de carpeta corresponde a cada diapositiva. Las imágenes deben tener un tamaño de 300x300 px. En cada caperta puede ponerse solo los siguientes números de imágenes, cualquier otro número probocará la detención del programa:
    * 0 arvhicos -> no se carga la diapositiva 
    * 2 archivos -> diapositiva con grilla dos pictogramas
    * 4 archivos -> diapositiva con grilla de 4 pictogramas
 
-3. Renombra los archivos de imagenes con la locución correspondiente, podes usar _'_'_ para los espacios o simplemente espacio, por ejemplo el pictograma de una escuela puede renombrarse a _'quiero ir a la escuela.jpg'_ o _'quiero_ir_a_la_escuela.jpg'_ 
+3. Renombra los archivos de imágenes con la locución correspondiente, podes usar _"_"_ para los espacios o simplemente espacio, por ejemplo el pictograma de una escuela puede renombrarse a _'quiero ir a la escuela.jpg'_ o _'quiero_ir_a_la_escuela.jpg'_ 
 
 4. Ejecuta y calibra GazePointer seleccionando la opción para controlar el puntero.
 
-5. Ejecuta blabla.exe
+5. Ejecuta blabla.exe que está dentro de la carpeta _Build_
 
 
-## Deployment 📦
+## Deployment
 
 * El software fué desarollado en Python 3 y requiere [PyGame](https://www.pygame.org/wiki/GettingStarted)
 
-## Construido con 🛠️
+## Construido con 
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Python](https://www.python.org/download/releases/3.0/) - Lenguaje usado
+* [PyGame](https://www.pygame.org/wiki/GettingStarted) - Librería para el desarrollo de juegos gráficos en Python
 
-## Contribuyendo 🖇️
+## Contribuyendo 
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta.
 
 
-## Versionado 📌
+## Versionado 
 
 Usamos [SemVer](https://semver.org/lang/es/) para el versionado. 
 
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+## Autores 
 
 * **Antonio Armada** - *Trabajo Inicial* 
 
