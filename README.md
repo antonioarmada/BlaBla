@@ -18,10 +18,10 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 1. Descarga o clona este respositorio dentro de la carpeta _Build_ vas a encontrar la versión ejecutable
 
-2. Carga las imagenes que quieres usar de pictogramas en las carpetas dentro de _diapos_ el numero de carpeta corresponde a una diapositiva. Las imagenes deben tener un tamaño de 300x300 px. En cada caperta puede ponerse solo los siguientes numeros de imagenes, cualquier otro numero probocará la detención del programa:
-  0 arvhicos -> no se carga la diapositiva
-  2 archivos -> diapositiva con grilla dos pictogramas
-  4 archivos -> diapositiva con grilla de 4 pictogramas
+2. Carga las imagenes que quieres usar de pictogramas en las carpetas que vas a encontrar dentro de _diapos_, el numero de carpeta corresponde a cada diapositiva. Las imágenes deben tener un tamaño de 300x300 px. En cada caperta puede ponerse solo los siguientes números de imágenes, cualquier otro número probocará la detención del programa:
+  * 0 arvhicos -> no se carga la diapositiva 
+  * 2 archivos -> diapositiva con grilla dos pictogramas
+  * 4 archivos -> diapositiva con grilla de 4 pictogramas
 
 3. Renombra los archivos de imagenes con la locución correspondiente, podes usar _'_'_ para los espacios o simplemente espacio, por ejemplo el pictograma de una escuela puede renombrarse a _'quiero ir a la escuela.jpg'_ o _'quiero_ir_a_la_escuela.jpg'_ 
 
