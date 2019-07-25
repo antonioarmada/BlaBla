@@ -2,12 +2,14 @@ Cuando contribuyas a este repositorio, primero discutí el cambio que deseas hac
 
 Tené en cuenta que tenemos un código de conducta, por favor, seguilo en todas sus interacciones con el proyecto.
 
+
 ## Hacer un Pull Request
 
 *Asegurate de que las dependencias de instalación o compilación se eliminan antes del final de la capa al realizar una compilación.
 *Actualizá el README.md con detalles de los cambios en la interfaz, esto incluye nuevas variables de entorno, puertos expuestos, ubicaciones de archivos útiles y parámetros de contenedor.
 *Aumentá los números de versión en los archivos de ejemplos y README.md a la nueva versión que representaría esta Pull Request. El esquema de versionamiento que utilizamos es SemVer.
 *Podes combinar el Pull Request una vez que haya finalizado la sesión de otros dos desarrolladores, o si no tiene permiso para hacerlo, puede solicitar al segundo revisor que lo fusione por usted.
+
 
 ## Código de Conducta
 
