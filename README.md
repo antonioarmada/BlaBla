@@ -35,8 +35,6 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ## Construido con 
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [Python](https://www.python.org/download/releases/3.0/) - Lenguaje usado
 * [PyGame](https://www.pygame.org/wiki/GettingStarted) - Librería para el desarrollo de juegos gráficos en Python
 
