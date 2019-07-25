@@ -9,7 +9,7 @@ Tené en cuenta que tenemos un código de conducta, por favor, seguilo en todas 
 *Aumentá los números de versión en los archivos de ejemplos y README.md a la nueva versión que representaría esta Pull Request. El esquema de versionamiento que utilizamos es SemVer.
 *Podes combinar el Pull Request una vez que haya finalizado la sesión de otros dos desarrolladores, o si no tiene permiso para hacerlo, puede solicitar al segundo revisor que lo fusione por usted.
 
-# Código de Conducta
+## Código de Conducta
 
 _Nuestro compromiso_
 
