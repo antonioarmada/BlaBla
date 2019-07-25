@@ -42,7 +42,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Contribuyendo 
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta.
+Por favor lee el [CONTRIBUTING.md](https://github.com/antonioarmada/BlaBla/blob/master/CONTRIBUTING.md) para detalles de nuestro código de conducta.
 
 
 ## Versionado 
@@ -55,18 +55,21 @@ Usamos [SemVer](https://semver.org/lang/es/) para el versionado.
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) que participaron en este proyecto. 
 
-## Licencia 📄
+## Licencia 
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la siguiente lincencia Creative Commons:
 
-## Expresiones de Gratitud 🎁
+_“Atribución – No Comercial – Compartir Igual (by-nc-sa): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original. Esta licencia no es una licencia libre.”_
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 a alguien del equipo. 
-* Da las gracias públicamente 🤓.
+
+## Expresiones de Gratitud 
+
+* Comentá a otros sobre este proyecto 
+* Invitale una cerveza a alguien del equipo. 
+* Dale las gracias públicamente.
 * etc.
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+
