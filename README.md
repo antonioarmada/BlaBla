@@ -26,7 +26,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 4. Ejecuta y calibra GazePointer seleccionando la opción para controlar el puntero.
 
-5. Ejecuta blabla.exe que está dentro de la carpeta _Build_
+5. Ejecuta blabla.exe que está dentro de la carpeta _dist_
 
 
 ## Deployment
