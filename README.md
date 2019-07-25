@@ -2,6 +2,8 @@
 
 En el marco de [Programa de Voluntarios](http:/ciencia.chubut.gov.ar/programa-de-voluntarios/) dearrollamos un comunicador por pictogramas de interface simple pensado en un principio para ser utilizado con seguidores de pupila de escaza resolución como Gaze Pointer. El uso requiere asistencia del terapeuta y por el momento no despliega opciones linkeadas.
 
+Este software está siendo probado en el Servicio de Rehabilitación Psicomotora del Hospital de Trelew
+
 ## Comenzando 
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo, pruebas y uso final._
@@ -49,7 +51,9 @@ Usamos [SemVer](https://semver.org/lang/es/) para el versionado.
 
 ## Autores 
 
-* **Antonio Armada** - *Trabajo Inicial* 
+* **Antonio Armada** - _Desarrollo Inicial_
+* **Viana Rossi** - _Tester_
+* **Yanina Cascon** - _Tester_
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) que participaron en este proyecto. 
 
