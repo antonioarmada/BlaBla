@@ -2,7 +2,7 @@ Cuando contribuyas a este repositorio, primero discutí el cambio que deseas hac
 
 Tené en cuenta que tenemos un código de conducta, por favor, seguilo en todas sus interacciones con el proyecto.
 
-#Hacer un Pull Request
+## Hacer un Pull Request
 
 *Asegurate de que las dependencias de instalación o compilación se eliminan antes del final de la capa al realizar una compilación.
 *Actualizá el README.md con detalles de los cambios en la interfaz, esto incluye nuevas variables de entorno, puertos expuestos, ubicaciones de archivos útiles y parámetros de contenedor.
@@ -11,12 +11,12 @@ Tené en cuenta que tenemos un código de conducta, por favor, seguilo en todas 
 
 ## Código de Conducta
 
-_Nuestro compromiso_
+**_Nuestro compromiso_**
 
 Con el fin de fomentar un entorno abierto y con buena onda, nosotros, como colaboradores y mantenedores, nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia sin hostigamiento para todos, independientemente de la edad, el tamaño del cuerpo, la discapacidad, el origen étnico, la identidad de género o identidad y orientación sexual, nivel de experiencia, nacionalidad, apariencia personal, raza, religión 
 
 
-_Nuestros estándares_
+**_Nuestros estándares_**
 
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen:
 
@@ -35,19 +35,19 @@ Ejemplos de comportamiento inaceptable por parte de los participantes incluyen:
    *Cualquier otra conducta que podría razonablemente considerarse inapropiada en un entorno profesional
 
 
-_Nuestras responsabilidades_
+**_Nuestras responsabilidades_**
 
 Los encargados del proyecto son responsables de aclarar los estándares de comportamiento aceptable y se espera que tomen las medidas correctivas adecuadas y justas en respuesta a cualquier instancia de comportamiento inaceptable.
 
 Los responsables del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones, códigos, ediciones de wiki, problemas y otras contribuciones que no estén alineadas con este Código de conducta, o de prohibir temporal o permanentemente a cualquier colaborador por otras conductas que Los consideran inapropiados, amenazantes, ofensivos o dañinos.
 
 
-_Alcance_
+**_Alcance_**
 
 Este Código de conducta se aplica tanto en los espacios del proyecto como en los espacios públicos cuando una persona representa al proyecto o su comunidad. Los ejemplos de representación de un proyecto o comunidad incluyen el uso de una dirección de correo electrónico oficial del proyecto, la publicación a través de una cuenta oficial de las redes sociales, o actuar como un representante designado en un evento en línea o fuera de línea. La representación de un proyecto puede ser definida y clarificada aún más por los mantenedores del proyecto.
 
 
-_Aplicación_
+**_Aplicación_**
 
 Los casos de comportamiento abusivo, acosador o inaceptable de otro modo pueden informarse contactando al equipo del proyecto en antonioarmada@gamail.com. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad con respecto al informador de un incidente. Más detalles de políticas específicas de cumplimiento pueden ser publicados por separado.
 
