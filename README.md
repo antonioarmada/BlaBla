@@ -1,8 +1,12 @@
-# BlaBla v1.0.0
+# BlaBla v1.0.1
 
 En el marco de [Programa de Voluntarios](http:/ciencia.chubut.gov.ar/programa-de-voluntarios/) dearrollamos un comunicador por pictogramas de interface simple pensado en un principio para ser utilizado con seguidores de pupila de escaza resolución como Gaze Pointer. El uso requiere asistencia del terapeuta y por el momento no despliega opciones linkeadas.
 
 Este software está siendo probado en el Servicio de Rehabilitación Psicomotora del Hospital de Trelew
+
+## Cambios de versión
+
+* Se agregó reescalado de imágenes automático a 300px por el proporcional de altura.
 
 ## Comenzando 
 
