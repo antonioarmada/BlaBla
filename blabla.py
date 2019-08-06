@@ -4,6 +4,8 @@ import pygame
 import win32com.client
 import time
 
+# v1.0.1
+# se adaptan las imagenes que se cargan a 500px por proporcional de alto. 
 
 # CONFIGURACION --------------------------------------------------------
 cantCarpetas= 20 # este es el nro de carpetas creadas, si la carpeta está vacía no carga la slide
@@ -25,7 +27,11 @@ class slide():
 			self.locucionesArchivos.append(locucionArchivo)
 			rutaArchivo=ruta_app+"/diapos/"+str(numero)+"/"+archivo
 			self.rutasArchivos.append(rutaArchivo)
-			self.imagenes.append(pygame.image.load(rutaArchivo).convert_alpha())
+			# corrijo la resolucion a 500px de ancho por proporcional y la cargo en la lista
+			tempImagen= pygame.image.load(rutaArchivo).convert_alpha()
+			proporcion= tempImagen.get_height()/tempImagen.get_width() #alto/ancho
+			tempImagen= pygame.transform.scale(tempImagen,(300,int(300*proporcion)))
+			self.imagenes.append(tempImagen)
 			
 def cargaSlides():
 	slides= []
